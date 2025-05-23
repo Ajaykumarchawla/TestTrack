@@ -1,0 +1,28 @@
+{
+  "1": {
+    "Question": "What is the smallest prime number?",
+    "Options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct option": {
+      "option key": "C",
+      "description": "2 is the smallest and the only even prime number."
+    }
+  },
+  "2": {
+    "Question": "Who wrote 'Romeo and Juliet'?",
+    "Options": {
+      "A": "Charles Dickens",
+      "B": "William Shakespeare",
+      "C": "Mark Twain",
+      "D": "Jane Austen"
+    },
+    "correct option": {
+      "option key": "B",
+      "description": "William Shakespeare is the author of 'Romeo and Juliet'."
+    }
+  }
+}

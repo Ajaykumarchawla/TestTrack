@@ -1,0 +1,28 @@
+{
+  "1": {
+    "Question": "What is the capital of France?",
+    "Options": {
+      "A": "Berlin",
+      "B": "Paris",
+      "C": "Madrid",
+      "D": "Rome"
+    },
+    "correct option": {
+      "option key": "B",
+      "description": "Paris is the capital and most populous city of France."
+    }
+  },
+  "2": {
+    "Question": "Which planet is known as the Red Planet?",
+    "Options": {
+      "A": "Earth",
+      "B": "Mars",
+      "C": "Venus",
+      "D": "Jupiter"
+    },
+    "correct option": {
+      "option key": "B",
+      "description": "Mars is called the Red Planet due to its reddish appearance."
+    }
+  }
+}
