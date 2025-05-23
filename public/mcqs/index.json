@@ -1,0 +1,18 @@
+[
+  {
+    "name": "GeneralKnowledge/Basics/Test1",
+    "path": "./mcqs/GeneralKnowledge/Basics/Test1.json"
+  },
+  {
+    "name": "GeneralKnowledge/Basics/Test2",
+    "path": "./mcqs/GeneralKnowledge/Basics/Test2.json"
+  },
+  {
+    "name": "Maths/Algebra/Test2",
+    "path": "./mcqs/Maths/Algebra/Test2.json"
+  },
+  {
+    "name": "Maths/Arithmetic/Test1",
+    "path": "./mcqs/Maths/Arithmetic/Test1.json"
+  }
+]

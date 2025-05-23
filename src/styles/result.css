@@ -1,0 +1,35 @@
+.result-page {
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.result-list {
+  margin-top: 2rem;
+}
+
+.result-item {
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+}
+
+.result-item.correct {
+  background-color: #e0ffe0;
+  border-color: #00cc00;
+}
+
+.result-item.incorrect {
+  background-color: #ffe0e0;
+  border-color: #cc0000;
+}
+
+.purple-btn {
+  background-color: purple;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}

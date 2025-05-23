@@ -1,0 +1,67 @@
+{
+  "1": {
+    "Question": "What is 15 + 27?",
+    "Options": { "A": "32", "B": "42", "C": "40", "D": "38" },
+    "correct option": { "option key": "B", "description": "15 + 27 = 42" }
+  },
+  "2": {
+    "Question": "What is the result of 9 × 6?",
+    "Options": { "A": "54", "B": "63", "C": "45", "D": "36" },
+    "correct option": { "option key": "A", "description": "9 × 6 = 54" }
+  },
+  "3": {
+    "Question": "What is 81 ÷ 9?",
+    "Options": { "A": "9", "B": "8", "C": "7", "D": "6" },
+    "correct option": { "option key": "A", "description": "81 ÷ 9 = 9" }
+  },
+  "4": {
+    "Question": "What is 7 + 8 × 2?",
+    "Options": { "A": "30", "B": "23", "C": "17", "D": "31" },
+    "correct option": {
+      "option key": "B",
+      "description": "8 × 2 = 16, then 7 + 16 = 23"
+    }
+  },
+  "5": {
+    "Question": "What is 100 - 45?",
+    "Options": { "A": "55", "B": "60", "C": "45", "D": "50" },
+    "correct option": { "option key": "A", "description": "100 - 45 = 55" }
+  },
+  "6": {
+    "Question": "Which of the following is an even number?",
+    "Options": { "A": "11", "B": "15", "C": "24", "D": "31" },
+    "correct option": {
+      "option key": "C",
+      "description": "24 is an even number"
+    }
+  },
+  "7": {
+    "Question": "What is 12% of 50?",
+    "Options": { "A": "5", "B": "6", "C": "7", "D": "8" },
+    "correct option": {
+      "option key": "B",
+      "description": "12% of 50 = (12/100) × 50 = 6"
+    }
+  },
+  "8": {
+    "Question": "How many sides does a triangle have?",
+    "Options": { "A": "3", "B": "4", "C": "5", "D": "6" },
+    "correct option": {
+      "option key": "A",
+      "description": "A triangle has 3 sides"
+    }
+  },
+  "9": {
+    "Question": "What is the square of 5?",
+    "Options": { "A": "10", "B": "15", "C": "20", "D": "25" },
+    "correct option": { "option key": "D", "description": "5 × 5 = 25" }
+  },
+  "10": {
+    "Question": "What is 4 cubed (4³)?",
+    "Options": { "A": "64", "B": "16", "C": "32", "D": "48" },
+    "correct option": {
+      "option key": "A",
+      "description": "4³ = 4 × 4 × 4 = 64"
+    }
+  }
+}

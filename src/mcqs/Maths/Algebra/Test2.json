@@ -1,0 +1,77 @@
+{
+  "1": {
+    "Question": "Solve for x: 2x + 3 = 11",
+    "Options": { "A": "3", "B": "4", "C": "5", "D": "6" },
+    "correct option": { "option key": "B", "description": "2x = 8 → x = 4" }
+  },
+  "2": {
+    "Question": "What is the value of x in the equation x² = 49?",
+    "Options": { "A": "7", "B": "-7", "C": "±7", "D": "0" },
+    "correct option": { "option key": "C", "description": "x² = 49 → x = ±7" }
+  },
+  "3": {
+    "Question": "Simplify: 3(x + 2)",
+    "Options": { "A": "3x + 2", "B": "x + 6", "C": "3x + 6", "D": "3x + 5" },
+    "correct option": {
+      "option key": "C",
+      "description": "Distribute: 3×x + 3×2 = 3x + 6"
+    }
+  },
+  "4": {
+    "Question": "Solve: x/4 = 5",
+    "Options": { "A": "9", "B": "10", "C": "15", "D": "20" },
+    "correct option": { "option key": "D", "description": "x = 5 × 4 = 20" }
+  },
+  "5": {
+    "Question": "Factor: x² - 9",
+    "Options": {
+      "A": "(x - 3)(x + 3)",
+      "B": "(x - 9)(x + 1)",
+      "C": "(x - 1)(x + 9)",
+      "D": "Prime"
+    },
+    "correct option": {
+      "option key": "A",
+      "description": "Difference of squares: x² - 9 = (x - 3)(x + 3)"
+    }
+  },
+  "6": {
+    "Question": "Evaluate: (x + y)² when x = 2 and y = 3",
+    "Options": { "A": "25", "B": "16", "C": "10", "D": "13" },
+    "correct option": { "option key": "A", "description": "(2 + 3)² = 5² = 25" }
+  },
+  "7": {
+    "Question": "Which is a solution to x² + 2x + 1 = 0?",
+    "Options": { "A": "0", "B": "-1", "C": "1", "D": "2" },
+    "correct option": {
+      "option key": "B",
+      "description": "(x + 1)² = 0 → x = -1"
+    }
+  },
+  "8": {
+    "Question": "What is the coefficient of x in 5x - 3?",
+    "Options": { "A": "3", "B": "-3", "C": "5", "D": "1" },
+    "correct option": {
+      "option key": "C",
+      "description": "The coefficient of x is 5"
+    }
+  },
+  "9": {
+    "Question": "What is the value of x in 3x = 15?",
+    "Options": { "A": "5", "B": "10", "C": "3", "D": "15" },
+    "correct option": { "option key": "A", "description": "x = 15 / 3 = 5" }
+  },
+  "10": {
+    "Question": "Simplify: x² + 2x + 1",
+    "Options": {
+      "A": "(x + 1)(x + 1)",
+      "B": "(x - 1)(x - 1)",
+      "C": "x(x + 1)",
+      "D": "(x + 2)(x - 1)"
+    },
+    "correct option": {
+      "option key": "A",
+      "description": "This is a perfect square trinomial: (x + 1)²"
+    }
+  }
+}
